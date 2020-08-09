@@ -1,0 +1,171 @@
+
+.package_taxi {
+  font-family: Raleway-Light;
+  .taxi_ex_head {
+    background-image: url("../images/taxi-back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 10%;
+    padding-bottom: 7%;
+    margin-bottom: 5%;
+    .call_us {
+      font-size: 1.5em;
+    }
+    .contact-number {
+      font-size: 2em;
+      font-weight: bold;
+      margin-bottom: 0;
+      text-decoration: none;
+      color: $primary-color-dark;
+      .tel-num {
+        text-decoration: none;
+        color: $primary-color-dark;
+      }
+
+    }
+    .title-packs {
+      font-size: 2em;
+      font-weight: bold;
+      margin-bottom: 0;
+    }
+    .subtext {
+      font-weight: bold;
+      font-size: 0.8em;
+      line-height: 0;
+    }
+  }
+
+}
+
+.cus-radio-btns {
+  width: 1.2em;
+  height: 1.2em;
+  margin-top: -2px;
+  vertical-align: middle;
+  background-color: $primary-color-dark;
+}
+
+.radio-label {
+  font-family: Raleway-Light;
+  font-size: 1em;
+  line-height: 0;
+  margin: 0;
+  margin-left: 5%;
+}
+
+.cus-input-sups {
+  width: 100%;
+  font-family: Raleway-Light;
+  border-radius: 5px;
+}
+
+.input-label {
+  font-size: 0.6em;
+  margin: 0.8em 0 1em 0.5em;
+  line-height: 0;
+}
+
+.images-tax-ex {
+  font-family: Raleway-Light;
+  .extend-image-base-selected {
+    cursor: pointer;
+    @include transition(1s);
+    border-radius: 4px;
+    border: 1px solid $primary-color;
+    .small_vehicle-color {
+      width: 50%;
+      filter: grayscale(0);
+      @include transition(1s);
+      &:hover {
+        cursor: pointer;
+      }
+    }
+
+    .small_vehicle-color-gray {
+      width: 50%;
+      filter: grayscale(100%);
+      @include transition(1s);
+      &:hover {
+        filter: grayscale(0);
+        cursor: pointer;
+      }
+    }
+  }
+  .extend-image-base {
+    @include transition(1s);
+    border: 1px solid $light-color;
+    border-radius: 4px;
+    cursor: pointer;
+    &:hover {
+      border: 1px solid $primary-color;
+    }
+    .small_vehicle-color {
+      width: 50%;
+      filter: grayscale(0);
+      @include transition(1s);
+      &:hover {
+        cursor: pointer;
+      }
+    }
+
+    .small_vehicle-color-gray {
+      width: 50%;
+      filter: grayscale(100%);
+      @include transition(1s);
+      &:hover {
+        filter: grayscale(0);
+        cursor: pointer;
+      }
+    }
+  }
+  .price-label {
+    font-family: Fjalla_One;
+    font-weight: bold;
+  }
+}
+
+.taxi-form {
+  margin-bottom: 5%;
+}
+
+.info-row {
+  font-family: Raleway-Light;
+  .time_date_value {
+    font-size: 1.4em;
+  }
+}
+
+.errorBadge{
+  font-family: Raleway-Light;
+  font-size: 0.7em;
+}
+
+.number_conf_model{
+
+  background-color: $light-color;
+  .modal-title{
+    font-family: Raleway-Light;
+    font-size: 1em;
+  }
+}
+.img-otp{
+  width: 80%;
+}
+
+.cus-model-conf{
+  font-family: Raleway-Light;
+  border-radius: 0;
+  .title{
+    font-size: 1.5em;
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .number_conf_model {
+    .modal-title {
+      font-size: 0.8em;
+    }
+  }
+}

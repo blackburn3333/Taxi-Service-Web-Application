@@ -1,0 +1,633 @@
+/*
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+  //CSS
+
+}
+
+/*
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+  //CSS
+
+}
+
+/*
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  //CSS
+
+  .our-services-component {
+    margin-top: 10%;
+  }
+  .our-options-container {
+    margin-top: 10%;
+  }
+
+  .nav-cus-collapse {
+    text-align: center;
+    line-height: 2em;
+    font-size: 1em;
+  }
+
+}
+
+/*
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1023px) and (orientation: landscape) {
+
+  //CSS
+
+  .nav-cus-collapse {
+    height: 100vh;
+    text-align: center;
+    line-height: 2em;
+    font-size: 1em;
+  }
+  .modal-lg-cus {
+    max-width: 90% !important;
+  }
+
+  .form-div {
+    height: auto;
+    .image-div {
+      display: none;
+    }
+  }
+
+  .package_container {
+    margin-top: 0;
+    padding-top: 10%;
+    margin-bottom: 0;
+    .card-columns-cus {
+      column-count: 2;
+    }
+  }
+  .option-gall {
+    height: auto;
+    padding: 0;
+    .card-option-texts {
+      .title-opt {
+        margin-bottom: 0;
+        font-size: 1em;
+      }
+      .description-ops {
+        font-size: 0.6em;
+        margin-bottom: 0;
+      }
+      .option-texts {
+        font-size: 0.6em;
+        line-height: 0;
+
+      }
+    }
+  }
+
+  .option-vehicles {
+    margin-bottom: 0;
+    font-size: 0.6em;
+    font-weight: bold;
+  }
+
+  .settings-table {
+    border: none;
+    tbody {
+      border: none;
+      tr {
+        border: none;
+        td {
+          padding: 2%;
+          padding-bottom: 0;
+          line-height: 0;
+        }
+      }
+    }
+  }
+
+  .com-opt-img {
+    width: 15%;
+  }
+
+  .option-icon {
+    font-size: 1em;
+    border: solid 1px $primary-color-dark;
+    border-radius: 50px;
+    margin-right: 0.5em;
+  }
+
+  .our-services-component {
+    margin-top: 10%;
+  }
+  .our-options-container {
+    margin-top: 10%;
+  }
+
+  .welcome-content {
+
+    padding-top: 15%;
+    padding-bottom: 15%;
+    .call_us {
+      font-size: 1.2em;
+
+    }
+    .contact-number {
+      font-size: 1.9em;
+    }
+    .mission_text {
+      font-size: 0.7em;
+
+    }
+
+    .taxi-head{
+      font-size: 1em;
+    }
+    .cus-input{
+      font-size: 0.7em;
+    }
+    .cus-button{
+      font-size: 0.7em;
+    }
+  }
+}
+  /*
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+
+  @media (min-width: 481px) and (max-width: 767px) {
+
+    //CSS
+    .welcome-content {
+      background-image: url("../images/colombo-two.jpg");
+      height: auto;
+    }
+  }
+
+  /*
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+
+  @media (min-width: 320px) and (max-width: 480px) {
+
+    //CSS
+
+    .welcome-content {
+      background-image: url("../images/colombo-two.jpg");
+      height: auto;
+    }
+
+    .our-services-component {
+      margin-top: 10%;
+    }
+    .our-options-container {
+      margin-top: 25%;
+      .small-op-low {
+        .small-vehicle-light {
+          width: 20%;
+          padding: 1%;
+        }
+        .small_vehicle-line {
+          width: 20%;
+          padding: 1%;
+        }
+      }
+    }
+
+    .prime-footer {
+      .footer-div-map {
+        height: 50vh;
+        .footer-map {
+          height: 100%;
+        }
+      }
+      .footer-bar-row {
+        background-color: $light-color;
+        height: auto;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        .footer-bar-divs {
+          height: 100%;
+        }
+        .footer-text-cop {
+          font-size: 0.8em;
+          letter-spacing: 0.2em;
+        }
+      }
+    }
+    .arrow-container {
+      display: none;
+    }
+
+    .pot-image {
+      width: 100%;
+    }
+
+    .com-opt-img {
+      width: 20%;
+    }
+
+    .option-cont-sub {
+      height: auto;
+    }
+
+    .option-gall {
+      height: auto;
+      padding: 0;
+      .card-option-texts {
+        .title-opt {
+          margin-bottom: 0;
+          font-size: 1em;
+        }
+        .description-ops {
+          font-size: 0.6em;
+          margin-bottom: 0;
+          font-weight: bold;
+        }
+        .option-texts {
+          font-size: 0.6em;
+          line-height: 0;
+
+        }
+      }
+    }
+
+    .option-vehicles {
+      margin-bottom: 0;
+      font-size: 0.6em;
+      font-weight: bold;
+      display: none;
+    }
+
+    .settings-table {
+      border: none;
+      display: none;
+      tbody {
+        border: none;
+        tr {
+          border: none;
+          td {
+            padding: 2%;
+            padding-bottom: 0;
+            line-height: 0;
+          }
+        }
+      }
+    }
+
+    .com-opt-img {
+      width: 15%;
+    }
+
+    .option-icon {
+      font-size: 1em;
+      border: solid 1px $primary-color-dark;
+      border-radius: 50px;
+      margin-right: 0.5em;
+    }
+
+    .card-option-texts {
+      height: 100%;
+    }
+
+    .pot-image {
+      width: 100%;
+      opacity: 0.4;
+    }
+
+    .option-vehicles-mobiles {
+      display: initial;
+      font-size: 0.6em;
+      font-weight: bold;
+      table {
+        margin-bottom: 0;
+      }
+    }
+    .settings-table-mobile {
+      display: initial;
+      margin-top: 0;
+      .option-texts {
+        .option-info {
+          font-size: 0.9em;
+          font-weight: bold;
+        }
+      }
+      .table-mobile {
+        margin-top: 0;
+        td {
+          padding: 2%;
+          font-weight: bold;
+        }
+      }
+    }
+
+    .package_container {
+      margin-top: 0;
+      padding-bottom: 15%;
+      margin-bottom: 0;
+      .head-title {
+        font-size: 2em;
+        font-weight: bold;
+      }
+      .packs_tour {
+        padding: 0;
+      }
+      .package-div {
+        .pack-title {
+          font-size: 1.5em;
+          font-weight: bold;
+        }
+        .desktop-title {
+          display: none;
+        }
+        .mobile-title {
+          display: inline;
+          font-size: 1.5em;
+          font-weight: bold;
+        }
+        .from-tab {
+          font-size: 0.8em;
+          font-weight: bold;
+        }
+      }
+      .days-tab {
+        font-size: 0.8em;
+        font-weight: bold;
+        margin-top: 1%;
+
+      }
+
+      .pack-sub-title {
+        font-size: 0.8em;
+        font-weight: bold;
+      }
+      .pack-small-title {
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 0.8em;
+      }
+      .pack-dec {
+        font-size: 0.8em;
+      }
+
+      .hori-ratings {
+        display: none;
+      }
+
+      .ver-ratings {
+        display: initial;
+      }
+
+      .tabs-pack {
+        margin-top: 1%;
+      }
+      .pac_arrow {
+        text-align: center;
+        font-size: 1.5em;
+        text-decoration: none;
+      }
+
+    }
+
+    .form-div {
+      height: auto;
+      border-radius: 0;
+      background-color: transparent;
+      .image-div {
+        display: none;
+      }
+    }
+
+    .value-lables {
+      font-size: 0.7em;
+      margin-bottom: 0;
+      font-weight: bold;
+    }
+
+    .time_date_value {
+      font-size: 0.7em;
+      margin-bottom: 0;
+      font-weight: bold;
+    }
+    .price_value {
+      font-size: 1em;
+      margin-bottom: 0;
+      font-weight: bold;
+    }
+
+    .arrow-ico {
+      color: $primary-color-dark;
+      font-size: 0.9em;
+      border: 1px solid $primary-color-dark;
+      border-radius: 50px;
+      padding: 1%;
+      &:hover {
+        cursor: pointer;
+      }
+    }
+
+    .back_text {
+      font-size: 0.8em;
+    }
+
+    .radio_button {
+      font-size: 0.8em;
+      font-weight: bold;
+    }
+    .last-hr {
+      display: none;
+    }
+
+    .cus-button {
+      width: 100%;
+      margin: 1%;
+      font-size: 0.8em;
+      padding: 0.4em;
+    }
+
+    .cus-input {
+      width: 100%;
+      margin: 1%;
+      font-size: 0.8em;
+      padding: 0.5em;
+      border: 1px solid $primary-color;
+      @include transition(1s);
+      &:hover {
+        outline: none;
+        border: 1px solid $primary-color-dark;
+      }
+      &:focus {
+        outline: none;
+        border: 1px solid $primary-color-dark;
+      }
+
+    }
+
+    .logo-side {
+      margin-top: 30%;
+      .logo-image {
+        display: none;
+      }
+      .mission_text {
+        display: none;
+      }
+    }
+    .final-div-margin {
+
+    }
+    .package_main {
+      .card-columns-cus {
+        column-count: 1;
+      }
+    }
+
+    .package_container {
+      .card-columns-cus {
+        column-count: 1;
+      }
+    }
+    .modal-lg-cus {
+      max-width: 100% !important;
+    }
+    .pack-v-type-ver {
+      margin-bottom: 0;
+      font-size: 0.7em;
+      font-weight: bold;
+    }
+    .common-side {
+      font-family: Raleway-Light;
+
+      .pack-sub-title {
+        font-size: 0.9em;
+        font-weight: bold;
+      }
+      .pack-small-title {
+        margin-top: 0;
+        margin-bottom: 1%;
+        font-size: 0.8em;
+        font-weight: bold;
+      }
+      .pack-dec {
+        font-size: 0.7em;
+      }
+      .pack-v-type {
+        font-size: 0.9em;
+        font-weight: bold;
+      }
+      margin-bottom: 5%;
+    }
+    .data-side {
+      .table_vehi_images {
+        width: 40%;
+      }
+      .data_content {
+        padding: 3%;
+        font-family: Fjalla_One;
+        font-weight: bold;
+        font-size: 1em;
+      }
+    }
+
+    .package_main {
+      .package_head {
+        padding-top: 30%;
+        padding-bottom: 30%;
+        .call_us {
+          font-size: 1em;
+        }
+        .contact-number {
+          font-size: 1.8em;
+          .tel-num {
+            text-decoration: none;
+            color: $primary-color-dark;
+          }
+        }
+        .title-packs {
+          font-size: 1.6em;
+          font-weight: bold;
+          margin-bottom: 0;
+        }
+        .subtext {
+          font-weight: bold;
+          font-size: 0.8em;
+          line-height: 0;
+        }
+      }
+
+    }
+
+    .package_taxi {
+      font-family: Raleway-Light;
+      .taxi_ex_head {
+        padding-top: 30%;
+        padding-bottom: 30%;
+        margin-bottom: 5%;
+        .call_us {
+          font-size: 1em;
+        }
+        .contact-number {
+          font-size: 1.8em;
+          .tel-num {
+            text-decoration: none;
+            color: $primary-color-dark;
+          }
+        }
+        .title-packs {
+          font-size: 1.6em;
+          font-weight: bold;
+          margin-bottom: 0;
+        }
+        .subtext {
+          font-weight: bold;
+          font-size: 0.8em;
+          line-height: 0;
+        }
+      }
+
+    }
+
+    .toggle-cus {
+      color: $light-color;
+      border-color: $light-color;
+    }
+    .input-label {
+      font-weight: bold;
+    }
+    .welcome-vehicle-cont {
+      .small_vehicle-color {
+        width: 25%;
+        padding: 2%;
+      }
+      .small_vehicle-color-gray {
+        width: 25%;
+        padding: 2%;
+      }
+    }
+    .package_container {
+      background-size: 280% auto;
+      padding-top: 15%;
+    }
+    .nav-cus-collapse {
+      height: 100vh;
+      text-align: center;
+      line-height: 2em;
+      font-size: 1.4em;
+      padding-top: calc(100% / 2);
+    }
+
+  }

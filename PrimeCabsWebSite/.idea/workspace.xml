@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="324cf720-4362-4ddd-9210-421b9e62fb5f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/anuradhapura.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/anuradhapura.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/aru.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/aru.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/baddula.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/baddula.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/ella.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/ella.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/galle.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/galle.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/hikka.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/hikka.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/jaffna.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/jaffna.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/kandy.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/kandy.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/katharagama.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/katharagama.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/kurunegala.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/kurunegala.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/matara.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/matara.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/mathale.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/mathale.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/nuwaraeliya.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/nuwaraeliya.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/pasikuda.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/pasikuda.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/packs/trinco.jpg" afterPath="$PROJECT_DIR$/src/assets/images/packs/trinco.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/taxi-back.jpg" afterPath="$PROJECT_DIR$/src/assets/images/taxi-back.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/class/packageOperations.js" afterPath="$PROJECT_DIR$/src/class/packageOperations.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TourPacksExtended.jsx" afterPath="$PROJECT_DIR$/src/components/TourPacksExtended.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/aboutus.jsx" afterPath="$PROJECT_DIR$/src/components/aboutus.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/navbar.jsx" afterPath="$PROJECT_DIR$/src/components/navbar.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ourServices.jsx" afterPath="$PROJECT_DIR$/src/components/ourServices.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tourpacks.jsx" afterPath="$PROJECT_DIR$/src/components/tourpacks.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/welcome.jsx" afterPath="$PROJECT_DIR$/src/components/welcome.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/yourRide.jsx" afterPath="$PROJECT_DIR$/src/components/yourRide.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Business.jsx" afterPath="$PROJECT_DIR$/src/containers/Business.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/BusinessDashboard.jsx" afterPath="$PROJECT_DIR$/src/containers/BusinessDashboard.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/TaxiExtended.jsx" afterPath="$PROJECT_DIR$/src/containers/TaxiExtended.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/website.jsx" afterPath="$PROJECT_DIR$/src/containers/website.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/global.js" afterPath="$PROJECT_DIR$/src/services/global.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TaxiExtended.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/TaxiExtended.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1856">
+              <caret line="148" column="39" lean-forward="false" selection-start-line="148" selection-start-column="39" selection-end-line="148" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/services/global.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tourpacks.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/tourpacks.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="992">
+              <caret line="330" column="12" lean-forward="false" selection-start-line="330" selection-start-column="12" selection-end-line="338" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="n#!!block;n#constructor#0;n#OurPacks#0" expanded="false" />
+                <element signature="e#1815#8367#0" expanded="false" />
+                <element signature="e#1844#2269#0" expanded="false" />
+                <element signature="e#2294#7809#0" expanded="false" />
+                <element signature="e#2312#2654#0" expanded="false" />
+                <element signature="n#!!block;n#onhandleChange#0;n#OurPacks#0" expanded="false" />
+                <element signature="n#!!block;n#insertpackdata#0;n#OurPacks#0" expanded="false" />
+                <element signature="n#!!block;n#handleChange#0;n#OurPacks#0" expanded="false" />
+                <element signature="n#!!block;n#onSubmitExploreFull#0;n#OurPacks#0" expanded="false" />
+                <element signature="n#!!block;n#viewData#0;n#OurPacks#0" expanded="false" />
+                <element signature="n#!!block;n#set_package_data_model#0;n#OurPacks#0" expanded="false" />
+                <element signature="n#!!block;n#render#0;n#OurPacks#0" expanded="false" />
+                <element signature="e#12251#12461#0" expanded="false" />
+                <element signature="e#12293#12438#0" expanded="false" />
+                <element signature="e#29002#32063#0" expanded="false" />
+                <element signature="e#33019#36133#0" expanded="false" />
+                <element signature="e#40190#43225#0" expanded="false" />
+                <element signature="e#44180#47237#0" expanded="false" />
+                <element signature="e#52074#59819#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TourPacksExtended.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/TourPacksExtended.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="348" column="0" lean-forward="false" selection-start-line="348" selection-start-column="0" selection-end-line="348" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="n#!!block;n#constructor#0;n#TourPacksExtended#0" expanded="false" />
+                <element signature="e#1984#2409#0" expanded="false" />
+                <element signature="e#2434#7949#0" expanded="false" />
+                <element signature="e#2452#2794#0" expanded="false" />
+                <element signature="e#2812#3158#0" expanded="false" />
+                <element signature="e#3176#3522#0" expanded="false" />
+                <element signature="e#3540#3887#0" expanded="false" />
+                <element signature="e#3905#4258#0" expanded="false" />
+                <element signature="e#4276#4637#0" expanded="false" />
+                <element signature="e#4655#5000#0" expanded="false" />
+                <element signature="e#5018#5374#0" expanded="false" />
+                <element signature="e#5392#5734#0" expanded="false" />
+                <element signature="e#5752#6093#0" expanded="false" />
+                <element signature="e#6111#6461#0" expanded="false" />
+                <element signature="e#6479#6828#0" expanded="false" />
+                <element signature="e#6846#7202#0" expanded="false" />
+                <element signature="e#7220#7559#0" expanded="false" />
+                <element signature="e#7577#7934#0" expanded="false" />
+                <element signature="n#!!block;n#insertpackdata#0;n#TourPacksExtended#0" expanded="false" />
+                <element signature="n#!!block;n#handleChange#0;n#TourPacksExtended#0" expanded="false" />
+                <element signature="n#!!block;n#onChangeLocation#0;n#TourPacksExtended#0" expanded="false" />
+                <element signature="n#!!block;n#viewData#0;n#TourPacksExtended#0" expanded="false" />
+                <element signature="n#!!block;n#set_package_data_model#0;n#TourPacksExtended#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logo</find>
+      <find>log</find>
+      <find>er</find>
+      <find>err</find>
+      <find>erro</find>
+      <find>e</find>
+      <find>error</find>
+      <find>image</find>
+      <find>calculate_package</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/assets/styles/components/_taxi_extended.scss" />
+        <option value="$PROJECT_DIR$/src/assets/styles/core/sk-fading-circle.scss" />
+        <option value="$PROJECT_DIR$/src/containers/Business.jsx.js" />
+        <option value="$PROJECT_DIR$/src/assets/styles/components/_welcome.scss" />
+        <option value="$PROJECT_DIR$/src/assets/styles/components/_animate.scss" />
+        <option value="$PROJECT_DIR$/src/class/globalfuntions.js" />
+        <option value="$PROJECT_DIR$/src/assets/styles/components/_spinner_two_cubes.scss" />
+        <option value="$PROJECT_DIR$/src/assets/styles/core/_spinners_three_bounce.scss" />
+        <option value="$PROJECT_DIR$/src/assets/styles/core/_spinner_two_cubes.scss" />
+        <option value="$PROJECT_DIR$/src/components/spinners.jsx" />
+        <option value="$PROJECT_DIR$/src/class/Business.js" />
+        <option value="$PROJECT_DIR$/src/class/formValidation.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/assets/styles/components/_tourpacks.scss" />
+        <option value="$PROJECT_DIR$/src/reducers/BusinessReducer.js" />
+        <option value="$PROJECT_DIR$/src/assets/styles/master.scss" />
+        <option value="$PROJECT_DIR$/src/components/TaxiForm.jsx" />
+        <option value="$PROJECT_DIR$/src/components/BusinessDashboard.jsx" />
+        <option value="$PROJECT_DIR$/src/storage.js" />
+        <option value="$PROJECT_DIR$/src/class/distanceMatrix.js" />
+        <option value="$PROJECT_DIR$/src/actions/BusinessActions.js" />
+        <option value="$PROJECT_DIR$/src/reducers/BusinessTourReducer.js" />
+        <option value="$PROJECT_DIR$/src/class/Taxi.js" />
+        <option value="$PROJECT_DIR$/src/class/BusinessFuntions.js" />
+        <option value="$PROJECT_DIR$/src/assets/styles/components/_business.scss" />
+        <option value="$PROJECT_DIR$/src/assets/styles/components/_businessDashboard.scss" />
+        <option value="$PROJECT_DIR$/src/assets/styles/components/_packageextend.scss" />
+        <option value="$PROJECT_DIR$/src/class/package_calculations.js" />
+        <option value="$PROJECT_DIR$/src/assets/styles/components/_ourservice.scss" />
+        <option value="$PROJECT_DIR$/src/assets/styles/components/_aboutus.scss" />
+        <option value="$PROJECT_DIR$/src/assets/styles/components/_nav_bar.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/class/sitehistorymanage.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/class/apicallurls.js" />
+        <option value="$PROJECT_DIR$/src/assets/styles/components/_packVehicleDataExt.scss" />
+        <option value="$PROJECT_DIR$/src/class/packageOperations.js" />
+        <option value="$PROJECT_DIR$/src/containers/BusinessDashboard.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/Business.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/website.jsx" />
+        <option value="$PROJECT_DIR$/src/components/yourRide.jsx" />
+        <option value="$PROJECT_DIR$/src/components/aboutus.jsx" />
+        <option value="$PROJECT_DIR$/src/components/ourServices.jsx" />
+        <option value="$PROJECT_DIR$/src/components/footer.jsx" />
+        <option value="$PROJECT_DIR$/src/components/navbar.jsx" />
+        <option value="$PROJECT_DIR$/src/components/BusinessRegister.jsx" />
+        <option value="$PROJECT_DIR$/src/containers/TaxiExtended.jsx" />
+        <option value="$PROJECT_DIR$/src/services/global.js" />
+        <option value="$PROJECT_DIR$/src/components/welcome.jsx" />
+        <option value="$PROJECT_DIR$/src/components/tourpacks.jsx" />
+        <option value="$PROJECT_DIR$/src/components/TourPacksExtended.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimeCabsWebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimeCabsWebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimeCabsWebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimeCabsWebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimeCabsWebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimeCabsWebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimeCabsWebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimeCabsWebSite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/helakurupuwath/helakurupuwath" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="E:\primecabsfinals\PrimeCabsWebSite\node_modules\eslint" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\primecabsfinals\PrimeCabsWebSite\src\assets\images" />
+      <recent name="E:\primecabsfinals\PrimeCabsWebSite\public" />
+      <recent name="E:\primecabsfinals\PrimeCabsWebSite\src\assets\fonts" />
+      <recent name="E:\primecabsfinals\PrimeCabsWebSite\src\actions" />
+      <recent name="E:\primecabsfinals\PrimeCabsWebSite\src\assets\styles\core" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\primecabsfinals\PrimeCabsWebSite\src\containers" />
+      <recent name="E:\primecabsfinals\PrimeCabsWebSite\src\assets\styles\core" />
+      <recent name="E:\primecabsfinals\PrimeCabsWebSite\src\assets\images" />
+      <recent name="E:\primecabsfinals\PrimeCabsWebSite\src\components" />
+      <recent name="E:\primecabsfinals\PrimeCabsWebSite\src\assets\images\tree" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MongoRunConfiguration" factoryName="Mongo">
+      <setting name="path" value="" />
+      <setting name="shellParams" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="324cf720-4362-4ddd-9210-421b9e62fb5f" name="Default" comment="" />
+      <created>1558618064689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558618064689</updated>
+      <workItem from="1558618066265" duration="25037000" />
+      <workItem from="1558682471424" duration="38261000" />
+      <workItem from="1558763534757" duration="30887000" />
+      <workItem from="1558843768510" duration="25839000" />
+      <workItem from="1558939877300" duration="7915000" />
+      <workItem from="1558961945819" duration="7581000" />
+      <workItem from="1558979105603" duration="11950000" />
+      <workItem from="1559027008896" duration="5790000" />
+      <workItem from="1559040689825" duration="338000" />
+      <workItem from="1559041065908" duration="13186000" />
+      <workItem from="1559063962764" duration="10572000" />
+      <workItem from="1559075879873" duration="1595000" />
+      <workItem from="1559118067084" duration="38463000" />
+      <workItem from="1559198155777" duration="33087000" />
+      <workItem from="1559288842428" duration="21942000" />
+      <workItem from="1559369723835" duration="2850000" />
+      <workItem from="1559387437479" duration="610000" />
+      <workItem from="1559389047736" duration="36167000" />
+      <workItem from="1559466462636" duration="9806000" />
+      <workItem from="1559578088884" duration="17990000" />
+      <workItem from="1559625403502" duration="4991000" />
+      <workItem from="1559633913551" duration="28000" />
+      <workItem from="1559635962293" duration="27260000" />
+      <workItem from="1559723714049" duration="9534000" />
+      <workItem from="1559736268362" duration="591000" />
+      <workItem from="1559760655796" duration="9094000" />
+      <workItem from="1559775096846" duration="409000" />
+      <workItem from="1559810252417" duration="43646000" />
+      <workItem from="1559903086708" duration="7424000" />
+      <workItem from="1559914247153" duration="2163000" />
+      <workItem from="1559928562396" duration="19418000" />
+      <workItem from="1559983717678" duration="593000" />
+      <workItem from="1559992646144" duration="28405000" />
+      <workItem from="1560077484575" duration="20576000" />
+      <workItem from="1560105614480" duration="419000" />
+      <workItem from="1560107231037" duration="9614000" />
+      <workItem from="1560153177091" duration="1627000" />
+      <workItem from="1560163960719" duration="1515000" />
+      <workItem from="1560188206382" duration="11749000" />
+      <workItem from="1560248864336" duration="2884000" />
+      <workItem from="1560252716529" duration="8894000" />
+      <workItem from="1560273087093" duration="1190000" />
+      <workItem from="1560279101421" duration="7665000" />
+      <workItem from="1560338086571" duration="25857000" />
+      <workItem from="1560428525981" duration="5377000" />
+      <workItem from="1560521162330" duration="598000" />
+      <workItem from="1560529221820" duration="19850000" />
+      <workItem from="1560582265691" duration="27621000" />
+      <workItem from="1560679798068" duration="4016000" />
+      <workItem from="1560698629117" duration="5078000" />
+      <workItem from="1560879919204" duration="4566000" />
+      <workItem from="1560952032226" duration="18066000" />
+      <workItem from="1561033598949" duration="6226000" />
+      <workItem from="1561058369081" duration="1877000" />
+      <workItem from="1561215604186" duration="15862000" />
+      <workItem from="1561266417512" duration="6138000" />
+      <workItem from="1561293809461" duration="11658000" />
+      <workItem from="1561315727327" duration="2935000" />
+      <workItem from="1561350473560" duration="1931000" />
+      <workItem from="1561360857207" duration="3157000" />
+      <workItem from="1561374163251" duration="7067000" />
+      <workItem from="1561388133334" duration="17855000" />
+      <workItem from="1561442486768" duration="23581000" />
+      <workItem from="1561526991965" duration="4405000" />
+      <workItem from="1561617363011" duration="664000" />
+      <workItem from="1561811447537" duration="112000" />
+      <workItem from="1563089138546" duration="19111000" />
+      <workItem from="1563211514364" duration="1915000" />
+      <workItem from="1563294750247" duration="6078000" />
+      <workItem from="1563304259875" duration="3619000" />
+      <workItem from="1563335889682" duration="1696000" />
+      <workItem from="1563371471391" duration="24600000" />
+      <workItem from="1563509331639" duration="505000" />
+      <workItem from="1563562659775" duration="3323000" />
+      <workItem from="1563602658972" duration="5767000" />
+      <workItem from="1563638022866" duration="2746000" />
+      <workItem from="1563645807730" duration="4169000" />
+      <workItem from="1563790821373" duration="1252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="848833000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1382" height="745" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18910742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41008404" sideWeight="0.35627836" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38225257" sideWeight="0.64372164" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41008404" sideWeight="0.35627836" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3764706" sideWeight="0.64372164" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18910742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/master.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/components/_welcome.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="117" column="2" lean-forward="false" selection-start-line="117" selection-start-column="2" selection-end-line="119" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/storage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="82" lean-forward="false" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/TaxiseriveReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="53" column="8" lean-forward="false" selection-start-line="53" selection-start-column="8" selection-end-line="59" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class/distanceMatrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="106" column="62" lean-forward="false" selection-start-line="106" selection-start-column="62" selection-end-line="106" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/BusinessReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/TaxiServiceActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/BusinessTourReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="64" column="32" lean-forward="false" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class/Taxi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/_responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="185" column="0" lean-forward="false" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/components/_businessDashboard.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class/formValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/components/_packageextend.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="42" column="2" lean-forward="true" selection-start-line="42" selection-start-column="2" selection-end-line="44" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/components/_business.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/components/_ourservice.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/components/_aboutus.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TaxiForm.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="71" column="26" lean-forward="false" selection-start-line="71" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/components/_nav_bar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="90" column="18" lean-forward="false" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/node_modules/react-router/index.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/history/cjs/history.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/history/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/cjs/react-router-dom.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/cjs/react-router-dom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="54" column="4" lean-forward="false" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class/apicallurls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class/package_calculations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="50" column="61" lean-forward="false" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/components/_packVehicleDataExt.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-notifications/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class/globalfuntions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class/sitehistorymanage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class/BusinessFuntions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/BusinessActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/class/packageOperations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/BusinessDashboard.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="48" lean-forward="false" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/website.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/styles/core/_colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Business.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/yourRide.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/aboutus.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/navbar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BusinessRegister.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ourServices.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/welcome.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tourpacks.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="330" column="12" lean-forward="false" selection-start-line="330" selection-start-column="12" selection-end-line="338" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="n#!!block;n#constructor#0;n#OurPacks#0" expanded="false" />
+            <element signature="e#1815#8367#0" expanded="false" />
+            <element signature="e#1844#2269#0" expanded="false" />
+            <element signature="e#2294#7809#0" expanded="false" />
+            <element signature="e#2312#2654#0" expanded="false" />
+            <element signature="n#!!block;n#onhandleChange#0;n#OurPacks#0" expanded="false" />
+            <element signature="n#!!block;n#insertpackdata#0;n#OurPacks#0" expanded="false" />
+            <element signature="n#!!block;n#handleChange#0;n#OurPacks#0" expanded="false" />
+            <element signature="n#!!block;n#onSubmitExploreFull#0;n#OurPacks#0" expanded="false" />
+            <element signature="n#!!block;n#viewData#0;n#OurPacks#0" expanded="false" />
+            <element signature="n#!!block;n#set_package_data_model#0;n#OurPacks#0" expanded="false" />
+            <element signature="n#!!block;n#render#0;n#OurPacks#0" expanded="false" />
+            <element signature="e#12251#12461#0" expanded="false" />
+            <element signature="e#12293#12438#0" expanded="false" />
+            <element signature="e#29002#32063#0" expanded="false" />
+            <element signature="e#33019#36133#0" expanded="false" />
+            <element signature="e#40190#43225#0" expanded="false" />
+            <element signature="e#44180#47237#0" expanded="false" />
+            <element signature="e#52074#59819#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/TaxiExtended.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1856">
+          <caret line="148" column="39" lean-forward="false" selection-start-line="148" selection-start-column="39" selection-end-line="148" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TourPacksExtended.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="348" column="0" lean-forward="false" selection-start-line="348" selection-start-column="0" selection-end-line="348" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="n#!!block;n#constructor#0;n#TourPacksExtended#0" expanded="false" />
+            <element signature="e#1984#2409#0" expanded="false" />
+            <element signature="e#2434#7949#0" expanded="false" />
+            <element signature="e#2452#2794#0" expanded="false" />
+            <element signature="e#2812#3158#0" expanded="false" />
+            <element signature="e#3176#3522#0" expanded="false" />
+            <element signature="e#3540#3887#0" expanded="false" />
+            <element signature="e#3905#4258#0" expanded="false" />
+            <element signature="e#4276#4637#0" expanded="false" />
+            <element signature="e#4655#5000#0" expanded="false" />
+            <element signature="e#5018#5374#0" expanded="false" />
+            <element signature="e#5392#5734#0" expanded="false" />
+            <element signature="e#5752#6093#0" expanded="false" />
+            <element signature="e#6111#6461#0" expanded="false" />
+            <element signature="e#6479#6828#0" expanded="false" />
+            <element signature="e#6846#7202#0" expanded="false" />
+            <element signature="e#7220#7559#0" expanded="false" />
+            <element signature="e#7577#7934#0" expanded="false" />
+            <element signature="n#!!block;n#insertpackdata#0;n#TourPacksExtended#0" expanded="false" />
+            <element signature="n#!!block;n#handleChange#0;n#TourPacksExtended#0" expanded="false" />
+            <element signature="n#!!block;n#onChangeLocation#0;n#TourPacksExtended#0" expanded="false" />
+            <element signature="n#!!block;n#viewData#0;n#TourPacksExtended#0" expanded="false" />
+            <element signature="n#!!block;n#set_package_data_model#0;n#TourPacksExtended#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

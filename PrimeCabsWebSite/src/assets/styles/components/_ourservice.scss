@@ -1,0 +1,36 @@
+.our-services-component {
+  font-family: Raleway-Light;
+  height: auto;
+  margin-bottom: 5%;
+  .head-title {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  .service-card {
+    padding: 2px;
+    padding-left: 1px;
+    padding-right: 1px;
+    .service-inner {
+      background-color: $light-color;
+      padding: 5%;
+      margin: 2%;
+      border-top: 5px $primary-color-dark solid;
+      height: 95%;
+    }
+    .service-title {
+      font-size: 1em;
+      font-weight: bold;
+    }
+    .service-short-dec {
+      font-size: 0.8em;
+    }
+  }
+
+ .row-eq-height {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+  }
+
+}

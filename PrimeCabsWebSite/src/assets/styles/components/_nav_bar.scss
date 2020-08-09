@@ -1,0 +1,94 @@
+.navbar-fixed-top.scrolled {
+  background-color: #fff !important;
+  transition: background-color 200ms linear;
+}
+
+.brand-nav {
+  width: auto;
+}
+
+.navbar-logo {
+  width: 10%;
+}
+
+.nav-item-style {
+  font-family: Raleway-Light;
+  margin-left: 1em;
+  margin-right: 1em;
+  a {
+    color: $light-color;
+    text-decoration: none;
+    font-size: 0.9em;
+    font-weight: bolder;
+    text-transform: uppercase;
+    @include transition(0.5s);
+  }
+  a:hover {
+    text-decoration: none;
+    color: $primary-color-dark;
+
+  }
+}
+
+.cus-navbar-trans {
+  @include transition(0.5s);
+  background-color: transparent;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.cus-navbar {
+  @include transition(0.5s);
+  background-color: $light-color;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  a {
+    color: $dark-color;
+    text-decoration: none;
+    font-size: 1em;
+    text-transform: uppercase;
+    @include transition(0.5s);
+  }
+}
+
+.cus-navbar-two {
+  @include transition(0.5s);
+  background-color: $light-color;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  a {
+    color: $dark-color;
+    text-decoration: none;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    @include transition(0.5s);
+  }
+}
+
+.cus-navbar-two-bus {
+  @include transition(0.5s);
+  padding-top: 1%;
+  padding-bottom: 1%;
+  a {
+    color: $dark-color;
+    text-decoration: none;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    @include transition(0.5s);
+  }
+}
+
+.nav-cus-collapse {
+
+}
+
+.cus-active {
+  a {
+    color: $primary-color-dark;
+  }
+}
+
+.cus-active-anchor {
+  color: $primary-color-dark;
+
+}

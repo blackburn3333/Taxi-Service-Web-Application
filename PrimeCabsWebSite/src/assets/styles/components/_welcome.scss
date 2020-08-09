@@ -1,0 +1,167 @@
+.welcome-content {
+  height: auto;
+  background-image: url("../images/taxi-back2.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 8%;
+  padding-bottom: 8%;
+}
+.logo-side {
+  .logo-image {
+    margin-top: 0;
+    display: initial;
+  }
+  .mission_text{
+    display: initial;
+    font-family: Sofia;
+    font-size: 1.2em;
+    -webkit-text-stroke-width:1px;
+  }
+}
+
+.form-div {
+  border-radius: 10px;
+  background-color: $light-color;
+  font-family: Raleway-Light;
+  /*border-top: solid 5px $primary-color-dark;*/
+  padding: 2%;
+  /*background-image: url("../images/border.png");
+  background-size: 150% auto;
+  background-repeat: no-repeat;*/
+  height: auto;
+  .taxi-head{
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+}
+
+.call_us {
+  font-size: 1.5em;
+  font-family: Raleway-Light;
+  margin-bottom: 0;
+  line-height: 0;
+  -webkit-text-stroke-width:1px;
+  -webkit-text-stroke-color: $light-color;
+}
+
+.contact-number {
+  font-size: 2em;
+  font-family: Raleway-Light;
+  font-weight: bold;
+  margin-bottom: 0;
+  text-decoration: none;
+  color: $primary-color-dark;
+  -webkit-text-stroke-width:1px;
+  -webkit-text-stroke-color: $light-color;
+  .tel-num {
+    text-decoration: none;
+    color: $primary-color-dark;
+  }
+}
+
+.cus-input {
+  border-radius: 5px;
+  width: 100%;
+  margin: 1%;
+  font-size: 0.9em;
+  padding: 0.5em;
+  border: 1px solid $primary-color;
+  @include transition(1s);
+  &:hover {
+    outline: none;
+    border: 1px solid $primary-color-dark;
+  }
+  &:focus {
+    outline: none;
+    border: 1px solid $primary-color-dark;
+  }
+
+}
+
+.small_vehicle-color {
+  width: 25%;
+  padding: 2%;
+  filter: grayscale(0);
+  @include transition(1s);
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.small_vehicle-color-gray {
+  width: 25%;
+  padding: 2%;
+  filter: grayscale(100%);
+  @include transition(1s);
+  &:hover {
+    filter: grayscale(0);
+    cursor: pointer;
+  }
+}
+
+.cus-button {
+  border-radius: 5px;
+  width: 100%;
+  margin: 1%;
+  font-size: 0.9em;
+  padding: 0.5em;
+  border: none;
+  background-color: $primary-color;
+  color: $light-color;
+  font-family: Raleway-Light;
+  @include transition(1s);
+  &:hover {
+    background-color: $primary-color-dark;
+  }
+  &:focus {
+    outline: none;
+  }
+}
+
+.input-label {
+  font-size: 0.6em;
+  margin: 0.8em 0 1em 0.5em;
+  line-height: 0;
+}
+
+.error_text {
+  font-size: 0.8em;
+  color: $color-error;
+  margin-top: 1em;
+  font-weight: bold;
+}
+
+.value-lables{
+  font-size: 0.8em;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.time_date_value{
+  font-size: 1em;
+  margin-bottom: 0;
+  font-weight: bold;
+  color:  $primary-color-dark;
+}
+.price_value{
+  font-size: 1.5em;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.arrow-ico {
+  color: $primary-color-dark;
+  font-size: 1em;
+  border: 1px solid $primary-color-dark;
+  border-radius: 50px;
+  padding: 1%;
+  &:hover{
+    cursor: pointer;
+  }
+}
+
+.last-hr{
+  display: initial;
+}

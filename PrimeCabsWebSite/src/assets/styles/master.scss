@@ -1,0 +1,32 @@
+@import "core/colors";
+@import "core/fonts";
+@import "core/mixins";
+@import "core/animate";
+@import "core/spinners_three_bounce";
+@import "core/sk-folding-cube";
+@import "core/sk-fading-circle";
+@import "components/welcome";
+@import "components/tourpacks";
+@import "components/ourservice";
+@import "components/ouroptions";
+@import "components/footer";
+@import "components/packageextend";
+@import "components/packVehicleDataExt";
+@import "components/taxi_extended";
+@import "components/business";
+@import "components/aboutus";
+@import "components/nav_bar";
+@import "components/businessDashboard";
+@import "responsive";
+
+.notification-container {
+  font-family: Raleway-Light;
+}
+
+.notification {
+  font-size: 0.8em;
+}
+
+.notification .title {
+  font-size: 0.9em;
+}

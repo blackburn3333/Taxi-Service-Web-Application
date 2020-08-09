@@ -1,0 +1,82 @@
+.main-business-container{
+  font-family: Raleway-Light;
+}
+
+.head-name-comp{
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0;
+}
+.branch-name-comp{
+  font-weight: bold;
+  margin: 0;
+}
+
+.settings-buttons{
+  display: inline-flex;
+  vertical-align: middle;
+  align-items: center;
+  background-color: rgb(255,255,255,0);
+  border: none;
+  &:focus {
+    outline: none;
+  }
+}
+.title-text-det{
+  font-weight: bold;
+}
+
+.tab-text-cus{
+  font-weight: bold;
+}
+
+.companyName_row{
+  padding-top: 15%;
+  padding-bottom: 10%;
+  background-image: url("../images/Corporate.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.tab-area{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.tab-inner{
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+.call_us_black{
+  font-size: 1.5em;
+  font-family: Raleway-Light;
+  color: $dark-color;
+}
+.title-text-tab-inner{
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.table-custom-mobile{
+  font-size: 1em;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  .companyName_row{
+    padding-top: 25%;
+    padding-bottom: 25%;
+    background-image: url("../images/Corporate.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .title-text-tab-inner{
+    font-weight: bold;
+    font-size: 1em;
+  }
+  .table-custom-mobile{
+    font-size: 0.8em;
+  }
+  .hide-col-table{
+    display: none;
+  }
+}

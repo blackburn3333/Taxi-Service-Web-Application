@@ -1,0 +1,131 @@
+.business-container {
+  font-family: Raleway-Light;
+  .container-inner {
+    height: auto;
+    background-image: url("../images/Corporate.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    .business-form-side {
+      background-color: $light-color;
+      .login-side {
+        margin-top: 35%;
+        margin-bottom: 35%;
+      }
+      .login-side-cus {
+        margin-top: 30%;
+        margin-bottom: 30%;
+      }
+      .register-side {
+        margin-top: 15%;
+        margin-bottom: 10%;
+        .back-arrow {
+          color: $primary-color;
+          cursor: pointer;
+        }
+      }
+    }
+    .business-logo-side {
+      .logo-side {
+        margin-top: 35%;
+        margin-bottom: 35%;
+        .call_us {
+          font-size: 1.5em;
+          font-family: Raleway-Light;
+          color: $dark-color;
+        }
+        .contact-number {
+          font-size: 2em;
+          font-family: Raleway-Light;
+          font-weight: bold;
+          margin-bottom: 0;
+          text-decoration: none;
+          color: $primary-color-dark;
+          .tel-num {
+            text-decoration: none;
+            color: $primary-color-dark;
+          }
+        }
+        .title-packs {
+          font-size: 1.5em;
+          font-weight: bold;
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+}
+
+.cus-input-err {
+  border-radius: 5px;
+  width: 100%;
+  margin: 1%;
+  font-size: 0.9em;
+  padding: 0.5em;
+  border: 1px solid $color-error;
+  @include transition(1s);
+}
+.custom-text-color{
+  color: $light-color;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  .business-container {
+    .container-inner {
+      height: auto;
+      background-image: url("../images/Corporate.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: bottom;
+      .business-form-side {
+
+        .login-side {
+          margin-top: 20%;
+          margin-bottom: 35%;
+        }
+        .login-side-cus {
+          margin-top: 30%;
+          margin-bottom: 30%;
+        }
+        .register-side {
+          margin-top: 15%;
+          margin-bottom: 10%;
+          .back-arrow {
+            color: $primary-color;
+            cursor: pointer;
+          }
+        }
+      }
+      .business-logo-side {
+        .logo-side {
+          margin-top: 35%;
+          margin-bottom: 20%;
+          .call_us {
+            font-size: 1em;
+            font-family: Raleway-Light;
+            color: $dark-color;
+          }
+          .contact-number {
+            font-size: 1.7em;
+            font-family: Raleway-Light;
+            font-weight: bold;
+            margin-bottom: 0;
+            text-decoration: none;
+            color: $primary-color-dark;
+            .tel-num {
+              text-decoration: none;
+              color: $primary-color-dark;
+            }
+          }
+          .title-packs {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 0;
+          }
+        }
+      }
+    }
+  }
+  .custom-text-color{
+    color: $dark-color;
+  }
+}

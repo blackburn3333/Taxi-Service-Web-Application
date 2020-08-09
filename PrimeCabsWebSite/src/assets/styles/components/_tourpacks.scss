@@ -1,0 +1,146 @@
+.package_container {
+  font-family: Raleway-Light;
+  height: auto;
+  margin-bottom: 5%;
+  background-image: url("../images/border.png");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  padding-top: 10%;
+  .head-title {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  .packs_tour {
+    padding: 0;
+    .tour_image {
+
+    }
+  }
+  .package-div {
+    .pack-title {
+      font-size: 1.5em;
+      font-weight: bold;
+      margin-bottom: 0;
+    }
+    .desktop-title{
+      display: inline;
+    }
+    .mobile-title{
+      display: none;
+    }
+    .car-ratings {
+      width: 30%;
+      float: left;
+
+    }
+    .price-from-pack {
+      width: 70%;
+      float: left;
+    }
+    .from-tab {
+      font-size: 0.9em;
+      font-weight: bold;
+    }
+  }
+  .days-tab {
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-top: 1%;
+
+  }
+
+  .pack-sub-title {
+    font-size: 1em;
+    font-weight: bold;
+  }
+  .pack-small-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 0.9em;
+  }
+  .pack-dec {
+    font-size: 0.9em;
+  }
+  .pack-v-type {
+    font-size: 0.9em;
+    font-weight: bold;
+  }
+  .hori-ratings{
+    display: initial;
+  }
+  .ver-ratings{
+    display: none;
+    .pack-v-type-ver{
+      margin-bottom: 0;
+      font-size: 0.6em;
+      font-weight: bold;
+    }
+  }
+  .tabs-pack{
+    margin-top: 1%;
+  }
+  .pac_arrow{
+    font-weight: bold;
+    font-size: 2em;
+    text-decoration: none;
+
+  }
+  .material-icons {
+    margin-right: -10px;
+  }
+  .mat-href{
+    color: $primary-color-dark;
+    &:hover {
+      cursor:pointer
+    }
+  }
+  .card-custom {
+    border-radius: 0;
+    border: none;
+    @include transition(1s);
+    .card-information {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      padding: 5%;
+      font-family: Ramabhadra;
+      color: $light-color;
+      .tour-text {
+        font-size: 1.7em;
+        margin-bottom: 0;
+      }
+      .tour-lock {
+        font-size: 0.8em;
+        margin-bottom: 0;
+      }
+      .des-all {
+        font-size: 0.6em;
+        margin-bottom: 0;
+      }
+    }
+    &:hover {
+      -webkit-box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+      -moz-box-shadow:0 .125rem .25rem rgba(0,0,0,.075)!important;
+      -ms-box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+      -o-box-shadow:0 .125rem .25rem rgba(0,0,0,.075)!important;
+      box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+      cursor: pointer;
+    }
+  }
+  .card-columns-cus {
+    column-count: 4;
+  }
+  .img-hover-zoom {
+    cursor: pointer;
+    height: auto; /* [1.1] Set it as per your need */
+    overflow: hidden; /* [1.2] Hide the overflowing of child elements */
+    img {
+      transition: transform .5s ease;
+      &:hover {
+        transform: scale(1.5);
+      }
+    }
+  }
+}
+
+

@@ -1,0 +1,122 @@
+.our-options-container {
+  font-family: Raleway-Light;
+  margin-bottom: 4%;
+  height: auto;
+  .text-row {
+    margin-bottom: 3%;
+  }
+  .head-title {
+    font-size: 2em;
+    font-weight: bold;
+  }
+
+  .small-op-low {
+    .small-vehicle-light {
+      width: 10%;
+      padding: 1%;
+      -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+      filter: grayscale(0%);
+      @include transition(1s);
+    }
+    .small_vehicle-line {
+      width: 10%;
+      padding: 1%;
+      -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+      filter: grayscale(100%);
+      @include transition(1s);
+      &:hover {
+        cursor: pointer;
+        -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+        filter: grayscale(0%);
+      }
+    }
+  }
+}
+
+.option-image-view {
+  -webkit-animation: fadeAnimation 2s; /* Safari 4.0 - 8.0 */
+  animation: fadeAnimation 2s;
+  animation-fill-mode: forwards;
+  -webkit-animation-fill-mode: forwards;
+
+}
+
+@keyframes fadeAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.pot-image {
+  width: 70%;
+}
+
+.opt-arrows {
+  font-size: 3em;
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  outline: none;
+  &:active {
+    outline: none;
+  }
+  &:focus {
+    outline: none;
+  }
+}
+
+.option-gall {
+  height: auto;
+  padding: 0;
+  background-color: $light-color;
+  .card-option-texts {
+    position: absolute;
+    z-index: 2;
+    .title-opt {
+      margin-bottom: 0;
+      font-size: 1.5em;
+      font-weight: bold;
+    }
+    .description-ops {
+
+    }
+    .option-texts {
+      font-size: 1.2em;
+
+    }
+  }
+}
+
+.option-icon {
+  font-size: 1.2em;
+  color: $primary-color-dark;
+  border: solid 3px $primary-color-dark;
+  padding: 2%;
+  border-radius: 50px;
+  margin-right: 0.5em;
+}
+.option-info {
+  font-weight: bold;
+  font-size: 0.8em;
+}
+.opt-val{
+  font-family: Fjalla_One;
+  font-size: 0.8em;
+}
+.com-opt-img {
+  width: 10%;
+}
+
+.option-vehicles{
+  margin-bottom: 0;
+}
+
+
+.option-vehicles-mobiles{
+  display: none;
+}
+.settings-table-mobile{
+  display: none;
+}

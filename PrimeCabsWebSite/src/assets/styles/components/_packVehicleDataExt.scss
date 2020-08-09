@@ -1,0 +1,63 @@
+.side_data_price {
+
+  margin: 0;
+  img {
+    width: 20%;
+  }
+  span {
+    font-weight: bold;
+    font-size: 0.8em;
+    margin-left: 5%;
+  }
+}
+
+.price-data-row {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  border: solid 2px $primary-light;
+  border-radius: 5px;
+  @include transition(1s);
+
+  &:hover {
+    border: solid 2px $primary-color-dark;
+    background-color: $light-color;
+    -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15), 0 3px 6px rgba(0, 0, 0, 0.10);
+    -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15), 0 3px 6px rgba(0, 0, 0, 0.10);
+    -ms-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15), 0 3px 6px rgba(0, 0, 0, 0.10);
+    -o-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15), 0 3px 6px rgba(0, 0, 0, 0.10);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15), 0 3px 6px rgba(0, 0, 0, 0.10);
+    cursor: pointer;
+  }
+  .table_vehi_images {
+    width: 75%;
+  }
+  .distance-div{
+    font-family: Raleway-Light;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding-top: 3%;
+    text-align: center;
+  }
+  .distance-div-cus{
+    font-size: 0.9em;
+    font-family: Raleway-Light;
+    font-weight: bold;
+    padding-top: 3%;
+    text-align: center;
+  }
+}
+
+.distance-div-cus{
+  font-size: 1.2em;
+}
+.from-tab-cus{
+  font-family: Raleway-Light;
+  font-weight: bold;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .from-tab-cus{
+      font-size: 0.7em;
+    font-weight: bold;
+  }
+}

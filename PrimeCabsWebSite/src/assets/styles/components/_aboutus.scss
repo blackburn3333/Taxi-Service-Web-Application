@@ -1,0 +1,91 @@
+.about-us-main{
+  font-family: Raleway-Light;
+  .about-us-head {
+    background-image: url("../images/about_us_head.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 10%;
+    padding-bottom: 7%;
+    margin-bottom: 5%;
+    .call_us {
+      font-size: 1.5em;
+    }
+    .contact-number {
+      font-size: 2em;
+      font-weight: bold;
+      margin-bottom: 0;
+      text-decoration: none;
+      color: $primary-color-dark;
+      .tel-num {
+        text-decoration: none;
+        color: $primary-color-dark;
+      }
+
+    }
+    .title-packs {
+      font-size: 2em;
+      font-weight: bold;
+      margin-bottom: 0;
+    }
+    .subtext {
+      font-weight: bold;
+      font-size: 0.8em;
+      line-height: 0;
+    }
+  }
+
+  .content_container{
+    background-color: $light-color;
+    padding: 5%;
+    margin: 2%;
+    border-top: 5px $primary-color-dark solid;
+  }
+
+  .service-title {
+    font-size: 1em;
+    font-weight: bold;
+  }
+  .service-short-dec {
+    font-size: 1em;
+  }
+  margin-bottom: 5%;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .about-us-main {
+    font-family: Raleway-Light;
+    .about-us-head {
+      padding-top: 30%;
+      padding-bottom: 30%;
+      margin-bottom: 5%;
+      .call_us {
+        font-size: 1em;
+      }
+      .contact-number {
+        font-size: 1.8em;
+        .tel-num {
+          text-decoration: none;
+          color: $primary-color-dark;
+        }
+      }
+      .title-packs {
+        font-size: 1.6em;
+        font-weight: bold;
+        margin-bottom: 0;
+      }
+      .subtext {
+        font-weight: bold;
+        font-size: 0.8em;
+        line-height: 0;
+      }
+    }
+    .service-title {
+      font-size: 1em;
+      font-weight: bold;
+    }
+    .service-short-dec {
+      font-size: 0.8em;
+    }
+  }
+}
